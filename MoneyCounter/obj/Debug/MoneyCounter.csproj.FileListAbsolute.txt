@@ -1,0 +1,11 @@
+C:\Users\drcor\Projects\MoneyCounter\MoneyCounter\bin\Debug\MoneyCounter.exe.config
+C:\Users\drcor\Projects\MoneyCounter\MoneyCounter\bin\Debug\MoneyCounter.exe
+C:\Users\drcor\Projects\MoneyCounter\MoneyCounter\bin\Debug\MoneyCounter.pdb
+C:\Users\drcor\Projects\MoneyCounter\MoneyCounter\obj\Debug\MoneyCounter.csproj.AssemblyReference.cache
+C:\Users\drcor\Projects\MoneyCounter\MoneyCounter\obj\Debug\MoneyCounter.csproj.SuggestedBindingRedirects.cache
+C:\Users\drcor\Projects\MoneyCounter\MoneyCounter\obj\Debug\MoneyCounter.Form1.resources
+C:\Users\drcor\Projects\MoneyCounter\MoneyCounter\obj\Debug\MoneyCounter.Properties.Resources.resources
+C:\Users\drcor\Projects\MoneyCounter\MoneyCounter\obj\Debug\MoneyCounter.csproj.GenerateResource.cache
+C:\Users\drcor\Projects\MoneyCounter\MoneyCounter\obj\Debug\MoneyCounter.csproj.CoreCompileInputs.cache
+C:\Users\drcor\Projects\MoneyCounter\MoneyCounter\obj\Debug\MoneyCounter.exe
+C:\Users\drcor\Projects\MoneyCounter\MoneyCounter\obj\Debug\MoneyCounter.pdb
